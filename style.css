@@ -9,5 +9,10 @@ header {
 }
 
 img {
-  image-orientation:  auto;
+  margin: auto;
+}
+
+a {
+  padding-right: 10px;
+  padding-left: 10px;
 }
